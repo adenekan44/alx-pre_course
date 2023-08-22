@@ -1,2 +1,0 @@
-# main
-javascript is fun
